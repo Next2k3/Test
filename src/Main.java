@@ -3,5 +3,5 @@ public class Main {
 
         System.out.println("Hello world!");
     }
-    // konflikt_2
-}
+// rozwiazanie konfliktu
+} 
